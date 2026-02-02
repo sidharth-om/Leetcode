@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sidharth-om/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sidharth-om/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
