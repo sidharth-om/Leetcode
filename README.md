@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sidharth-om/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Counting
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/sidharth-om/Leetcode/tree/master/1534-count-good-triplets) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
