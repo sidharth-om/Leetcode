@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/sidharth-om/Leetcode/tree/master/0896-monotonic-array) |
 | [1534-count-good-triplets](https://github.com/sidharth-om/Leetcode/tree/master/1534-count-good-triplets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sidharth-om/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/sidharth-om/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sidharth-om/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
