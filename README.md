@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sidharth-om/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/sidharth-om/Leetcode/tree/master/0896-monotonic-array) |
+| [1089-duplicate-zeros](https://github.com/sidharth-om/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1534-count-good-triplets](https://github.com/sidharth-om/Leetcode/tree/master/1534-count-good-triplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sidharth-om/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1089-duplicate-zeros](https://github.com/sidharth-om/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Simulation
 |  |
 | ------- |
