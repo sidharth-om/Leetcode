@@ -5,17 +5,12 @@
 var findErrorNums = function(nums) {
 let seen={}
 let result=[]
-nums.sort((a,b)=>a-b)
-console.log(nums)
+
+
 for(const num of nums){
     seen[num]=(seen[num]||0)+1
 }
-// for(let i=0;i<nums.length;i++){
-//     if(nums[i]!==i+1){
-//         result.push(i+1)
-//         break
-//     }
-// }
+
 
 for(let i=0;i<nums.length;i++){
     if(!nums.includes(i+1)){
