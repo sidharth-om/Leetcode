@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sidharth-om/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sidharth-om/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/sidharth-om/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/sidharth-om/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sidharth-om/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sidharth-om/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/sidharth-om/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
 | ------- |
