@@ -8,14 +8,12 @@ var lemonadeChange = function(bills) {
 
    for(const num of bills){
     
-    if(num===5){five+=5}
-
-    if(num===10){
+    if(num===5){
+        five+=5
+    }else if(num===10){
         ten+=10
         five-=5
-    }
-
-    if(num===20){
+    }else if(num===20){
        if(ten>0){
         ten-=10
         five-=5
