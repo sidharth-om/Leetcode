@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sidharth-om/Leetcode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
+| [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/sidharth-om/Leetcode/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/sidharth-om/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1534-count-good-triplets](https://github.com/sidharth-om/Leetcode/tree/master/1534-count-good-triplets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/sidharth-om/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bit Manipulation
 |  |
