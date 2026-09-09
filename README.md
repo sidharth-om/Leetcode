@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sidharth-om/Leetcode/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/sidharth-om/Leetcode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sidharth-om/Leetcode/tree/master/0326-power-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sidharth-om/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
