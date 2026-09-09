@@ -4,11 +4,12 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
+    let set=new Set(nums2)
    let result=new Set()
 
-   for(let i=0;i<nums1.length;i++){
-    if(nums2.includes(nums1[i])){
-        result.add(nums1[i])
+   for(const num of nums1){
+    if(set.has(num)){
+        result.add(num)
     }
    }
    return [...result]
