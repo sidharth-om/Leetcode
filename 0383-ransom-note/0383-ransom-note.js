@@ -5,18 +5,30 @@
  */
 var canConstruct = function(ransomNote, magazine) {
    
- let length=ransomNote.length
+//  let length=ransomNote.length
 
-    for(let i=0;i<ransomNote.length;i++){
-        for(let j=0;j<magazine.length;j++){
-            if(ransomNote[i]===magazine[j]){
-                magazine=magazine.slice(0,j)+magazine.slice(j+1)
+//     for(let i=0;i<ransomNote.length;i++){
+//         for(let j=0;j<magazine.length;j++){
+//             if(ransomNote[i]===magazine[j]){
+//                 magazine=magazine.slice(0,j)+magazine.slice(j+1)
             
-                length--
+//                 length--
                
-                break
-            }
-        }
+//                 break
+//             }
+//         }
+//     }
+//     return length===0?true:false
+
+
+const arr=magazine.split('')
+
+for(const char of ransomNote){
+    if(arr.indexOf(char)===-1){
+        return false
+    }else{
+        arr.splice(arr.indexOf(char),1)
     }
-    return length===0?true:false
+}
+return true
 };
