@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sidharth-om/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sidharth-om/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sidharth-om/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sidharth-om/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sidharth-om/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sidharth-om/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sidharth-om/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sidharth-om/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/sidharth-om/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sidharth-om/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
