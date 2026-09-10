@@ -1,0 +1,22 @@
+/**
+ * @param {string} ransomNote
+ * @param {string} magazine
+ * @return {boolean}
+ */
+var canConstruct = function(ransomNote, magazine) {
+   
+ let length=ransomNote.length
+ let length2=magazine.length
+    for(let i=0;i<ransomNote.length;i++){
+        for(let j=0;j<magazine.length;j++){
+            if(ransomNote[i]===magazine[j]){
+                magazine=magazine.slice(0,j)+magazine.slice(j+1)
+                // console.log(magazine)
+                length--
+                if(length===0)return true
+                break
+            }
+        }
+    }
+    return length===0?true:false
+};
