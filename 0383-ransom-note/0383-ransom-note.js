@@ -11,9 +11,9 @@ var canConstruct = function(ransomNote, magazine) {
         for(let j=0;j<magazine.length;j++){
             if(ransomNote[i]===magazine[j]){
                 magazine=magazine.slice(0,j)+magazine.slice(j+1)
-                // console.log(magazine)
+            
                 length--
-                if(length===0)return true
+                // if(length===0)return true
                 break
             }
         }
