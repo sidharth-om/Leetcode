@@ -13,7 +13,7 @@ var canConstruct = function(ransomNote, magazine) {
                 magazine=magazine.slice(0,j)+magazine.slice(j+1)
             
                 length--
-                // if(length===0)return true
+               
                 break
             }
         }
