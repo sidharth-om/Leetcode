@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sidharth-om/Leetcode/tree/master/0066-plus-one) |
 | [0349-intersection-of-two-arrays](https://github.com/sidharth-om/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sidharth-om/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/sidharth-om/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sidharth-om/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sidharth-om/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sidharth-om/Leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/sidharth-om/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sidharth-om/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sidharth-om/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/sidharth-om/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1089-duplicate-zeros](https://github.com/sidharth-om/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Simulation
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/sidharth-om/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sidharth-om/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/sidharth-om/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sidharth-om/Leetcode/tree/master/0392-is-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sidharth-om/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
