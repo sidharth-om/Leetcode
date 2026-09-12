@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sidharth-om/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sidharth-om/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sidharth-om/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/sidharth-om/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sidharth-om/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sidharth-om/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/sidharth-om/Leetcode/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
