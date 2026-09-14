@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sidharth-om/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sidharth-om/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sidharth-om/Leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/sidharth-om/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
