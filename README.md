@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/sidharth-om/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sidharth-om/Leetcode/tree/master/0389-find-the-difference) |
+| [0476-number-complement](https://github.com/sidharth-om/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
