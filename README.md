@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sidharth-om/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/sidharth-om/Leetcode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/sidharth-om/Leetcode/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/sidharth-om/Leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/sidharth-om/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sidharth-om/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sidharth-om/Leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0504-base-7](https://github.com/sidharth-om/Leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sidharth-om/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
