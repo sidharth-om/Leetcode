@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/sidharth-om/Leetcode/tree/master/0896-monotonic-array) |
 | [1089-duplicate-zeros](https://github.com/sidharth-om/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1313-decompress-run-length-encoded-list](https://github.com/sidharth-om/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1534-count-good-triplets](https://github.com/sidharth-om/Leetcode/tree/master/1534-count-good-triplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-om/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/sidharth-om/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
