@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/sidharth-om/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/sidharth-om/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/sidharth-om/Leetcode/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/sidharth-om/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sidharth-om/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sidharth-om/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sidharth-om/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
