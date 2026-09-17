@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/sidharth-om/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/sidharth-om/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/sidharth-om/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/sidharth-om/Leetcode/tree/master/0896-monotonic-array) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sidharth-om/Leetcode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sidharth-om/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
