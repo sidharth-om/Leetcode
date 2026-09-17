@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sidharth-om/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/sidharth-om/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/sidharth-om/Leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/sidharth-om/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidharth-om/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sidharth-om/Leetcode/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sidharth-om/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/sidharth-om/Leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/sidharth-om/Leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/sidharth-om/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/sidharth-om/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
