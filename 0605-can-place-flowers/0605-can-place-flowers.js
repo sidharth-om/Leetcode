@@ -8,7 +8,7 @@ var canPlaceFlowers = function(flowerbed, n) {
     flowerbed.push(0)
   
 
-    for(let i=1;i<flowerbed.length-1;i++){
+    for(let i=1;i<flowerbed.length;i++){
          if(n===0){return true}
         if(
         flowerbed[i]===0&&
@@ -21,7 +21,7 @@ var canPlaceFlowers = function(flowerbed, n) {
         
         
     }
-    return n===0
+    return false
 
    
 };
