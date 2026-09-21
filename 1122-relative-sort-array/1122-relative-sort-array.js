@@ -5,10 +5,11 @@
  */
 var relativeSortArray = function(arr1, arr2) {
     let position=0
-    // arr1.sort((a,b)=>a-b)
-    // console.log(arr1)
+
+
     for(let i=0;i<arr2.length;i++){
         for(let j=0;j<arr1.length;j++){
+        
             if(arr2[i]===arr1[j]){
                 [arr1[position],arr1[j]]=[arr1[j],arr1[position]]
                 position++
@@ -16,7 +17,7 @@ var relativeSortArray = function(arr1, arr2) {
         }
        
     }
+
    return([...(arr1.filter(num=>arr2.includes(num))) , ...(arr1.filter(num=>!arr2.includes(num)).sort((a,b)=>a-b))])
 
-    // return arr1
 };
